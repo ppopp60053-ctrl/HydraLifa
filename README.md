@@ -13,10 +13,6 @@ Graphic Designer
 
 **Instructor:**  
 Eng. Abir Ismail
-
-**Badla Link:**  
-_(ضع الرابط هنا)_
-
 ---
 
 ## 👥 Project Team (HydraLifa Trainees)
@@ -41,8 +37,3 @@ The project represents the practical application of graphic design skills gained
 - Branding & Visual Identity  
 - Adobe Design Tools  
 - Creative Concept Development
-
----
-
-## 📄 License
-This project was developed for educational purposes as part of the DEPI graduation requirements.
