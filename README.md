@@ -19,7 +19,7 @@ Eng. Abir Ismail
 
 - **Gerges Emad Felix** — Team Leader  
 - Mohamed Mohsen Mostafa  
-- Zainab Mohamed El-Sayed  
+- Zainab Mohammed El-Sayed  
 - Maha Jihad Mousa  
 - Ziad Ezzat Mohamed  
 - Basmala Sayed Gomaa  
